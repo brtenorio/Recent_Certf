@@ -4,8 +4,7 @@ This repository contains a record of recent Data Science certificates obtained f
 
 ## Certificates
 
-1. [Google Advanced Data Analytics](#) - 190 hours.
-   [https://coursera.org/verify/professional-cert/AEXU8J58SKTZ]
+1. [Google Advanced Data Analytics](https://coursera.org/verify/professional-cert/AEXU8J58SKTZ) - 190 hours.
 
 2. [Databases and SQL for Data Science with Python](#) - 20 hours.
    [https://coursera.org/verify/BWCFBY2YTPRH]
