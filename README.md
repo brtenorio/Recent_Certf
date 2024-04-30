@@ -4,6 +4,10 @@ This repository contains a record of recent Data Science certificates obtained f
 
 ## Certificates
 
+1. Certificate 1: [Google Advanced Data Analytics](#) - Approximately 6 months. [https://coursera.org/verify/professional-cert/AEXU8J58SKTZ]
+2. Certificate 2: [Title of Course 2](#) - Issued on: Date
+3. Certificate 3: [Title of Course 3](#) - Issued on: Date
+
 Feel free to explore the certificates by clicking on the respective course titles.
 
 ## How to Use
