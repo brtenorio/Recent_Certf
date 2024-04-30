@@ -4,9 +4,20 @@ This repository contains a record of recent Data Science certificates obtained f
 
 ## Certificates
 
-1. Certificate 1: [Google Advanced Data Analytics](#) - Approximately 6 months. [https://coursera.org/verify/professional-cert/AEXU8J58SKTZ]
-2. Certificate 2: [Title of Course 2](#) - Issued on: Date
-3. Certificate 3: [Title of Course 3](#) - Issued on: Date
+1. [Google Advanced Data Analytics](#) - 190 hours.
+   [https://coursera.org/verify/professional-cert/AEXU8J58SKTZ]
+
+2. [Databases and SQL for Data Science with Python](#) - 20 hours.
+   [https://coursera.org/verify/BWCFBY2YTPRH]
+
+3. [Fundamentals of Scalable Data Science](#) - 27 hours.
+   [https://coursera.org/verify/NVAQKP73PU4R]
+
+4. [Advanced Machine Learning and Signal Processing](#) - 32 hours.
+   [https://coursera.org/verify/CVR4ZGNMF5W2]
+
+5. [Applied AI with DeepLearning](#) - 25 hours.
+   [https://coursera.org/verify/J4KM7SGN6B8Z]
 
 Feel free to explore the certificates by clicking on the respective course titles.
 
