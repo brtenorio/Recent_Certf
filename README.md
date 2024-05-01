@@ -1,4 +1,4 @@
-# Recent Data Science Certificates from Coursera
+# Recent Data Science Certificates from Google and IBM
 
 This repository contains a record of recent Data Science certificates obtained from Coursera. Each certificate represents successful completion of a Data Science course on Coursera.
 
