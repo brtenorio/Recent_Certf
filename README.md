@@ -1,6 +1,6 @@
-# Recent Data Science Certificates from Google and IBM
+# Recent Data Science Certificates
 
-This repository contains a record of recent Data Science certificates obtained from Coursera. Each certificate represents successful completion of a Data Science course on Coursera.
+This repository contains a record of recent Data Science certificates obtained from Coursera. Each certificate represents successful completion of a Data Science specialization course offered by Google Career Certificates or IBM.
 
 ## Certificates
 
@@ -14,12 +14,13 @@ This repository contains a record of recent Data Science certificates obtained f
 
 5. [Applied AI with DeepLearning](https://coursera.org/verify/J4KM7SGN6B8Z) - 25 hours.
 
+6. [Deep Learning and Reinforcement Learning](https://coursera.org/verify/DH2DPRR46PGC) - 31 hours.
 
 Feel free to explore the certificates by clicking on the respective course titles.
 
 ## How to Use
 
-You can view the certificates by clicking on the links provided above. Additionally, you can enroll in these courses on Coursera to enhance your Data Science skills and knowledge.
+You can view the certificates by clicking on the links provided above.
 
 ## Contact
 
