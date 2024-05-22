@@ -5,9 +5,12 @@ Each certificate represents successful completion of a Data Science specializati
 
 ## Specializations
 
-1. [Google Advanced Data Analytics](https://coursera.org/verify/professional-cert/AEXU8J58SKTZ) - 190 hours.
+1. [IBM Machine Learning Specialization](https://coursera.org/verify/professional-cert/YWV9WCTCB4ZA) - 130 hours.
 
-2. [Advanced Data Science with IBM](https://coursera.org/verify/specialization/8PRURM6Y76TJ) - 90 hours.
+2. [Google Advanced Data Analytics](https://coursera.org/verify/professional-cert/AEXU8J58SKTZ) - 190 hours.
+
+3. [Advanced Data Science with IBM](https://coursera.org/verify/specialization/8PRURM6Y76TJ) - 90 hours.
+
 
 ## Certificates
 
@@ -22,6 +25,14 @@ Each certificate represents successful completion of a Data Science specializati
 5. [Deep Learning and Reinforcement Learning](https://coursera.org/verify/DH2DPRR46PGC) - 31 hours.
 
 6. [Fundamentals of Data Governance](https://coursera.org/verify/B3VQMR5UFRDB) - 3 hours.
+
+7. [Unsupervised Machine Learning](https://coursera.org/verify/T8CUV33M3YXP) - 23 hours.
+
+8. [Supervised Machine Learning: Classification](https://coursera.org/verify/QP7CFVYPVUAE) - 24 hours.
+
+9. [Supervised Machine Learning: Regression](https://coursera.org/verify/H3MXABBTFUCD) - 20 hours.
+
+10. [Exploratory Data Analysis for Machine Learning](https://coursera.org/verify/2C5F7GNJN9SA) - 14 hours.
 
 Feel free to explore the certificates by clicking on the respective course titles.
 
